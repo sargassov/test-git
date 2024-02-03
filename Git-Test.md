@@ -16,3 +16,5 @@
 - **branch** - ветка
 - **git branch name** - сщздание ветки
 - any difference for third branch
+- **third branch commit** - коммит третьей ветки
+
