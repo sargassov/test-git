@@ -15,3 +15,5 @@
 - **git branch** - выводит ветки
 - **branch** - ветка
 - **git branch name** - сщздание ветки
+- **third branch commit** - коммит третьей ветки
+
